@@ -15,6 +15,3 @@ ME:Iの架空のイベント告知LPをコーディングしたポートフォ�
 
 ## 公開URL
 [Netlifyで公開](https://your-site.netlify.app)
-
-## スクリーンショット
-![LP Screenshot](images/screenshot.jpg)
